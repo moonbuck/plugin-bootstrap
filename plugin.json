@@ -3,7 +3,7 @@
     "title": "Moondeer's Bootstrap",
     "description": "Injects the Bootstrap framework to be leveraged from custom themes and plugins",
     "includes": [
-      "/assets/css/bootstrap.min.css",
+      /*"/assets/css/bootstrap.min.css",*/
       "/assets/js/bootstrap.bundle.min.js"
     ]
   }
